@@ -121,6 +121,9 @@ myWitWallet is a Witnet light wallet for mobile and desktop.
 
 - [Cryptocurrency_Wallet](https://github.com/ankitghosh00/Cryptocurrency_Wallet) ![stars](https://img.shields.io/github/stars/ankitghosh00/Cryptocurrency_Wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/ankitghosh00/Cryptocurrency_Wallet?style=flat-square) - Cryptocurrency_Wallet.
 
+- [SafePal Wallet](https://github.com/SafePalWallet/safepal-app) ![stars](https://img.shields.io/github/stars/SafePalWallet/safepal-app?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/SafePalWallet/safepal-app?style=flat-square) - SafePal Wallet.
+
+
 ### Flutter SDK / Libraries
 - [Flutter TrustWalletCore](https://github.com/weishirongzhen/flutter_trust_wallet_core) ![stars](https://img.shields.io/github/stars/weishirongzhen/flutter_trust_wallet_core?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/weishirongzhen/flutter_trust_wallet_core?style=flat-square) - Flutter bindings for TrustWalletCore library.
 
@@ -285,6 +288,11 @@ A simple Flutter app that demonstrates a wallet UI design.
 - [U3 Wallet](https://github.com/us3r-network/u3) ![stars](https://img.shields.io/github/stars/us3r-network/u3) ![last commit](https://img.shields.io/github/last-commit/us3r-network/u3?style=flat-square) - Social Wallet for Web3.
 
 - [MEW Wallet](https://github.com/MyEtherWallet/MyEtherWallet) ![stars](https://img.shields.io/github/stars/MyEtherWallet/MyEtherWallet) ![last commit](https://img.shields.io/github/last-commit/MyEtherWallet/MyEtherWallet?style=flat-square) - MyEtherWallet (our friends call us MEW) is a free, client-side interface helping you interact with the Ethereum blockchain.
+
+- [Backpack Wallet](https://github.com/coral-xyz/backpack) ![stars](https://img.shields.io/github/stars/coral-xyz/backpack) ![last commit](https://img.shields.io/github/last-commit/coral-xyz/backpack?style=flat-square) - 🎒 Next level crypto wallet.
+
+- [Zerion Extension Wallet](https://github.com/zeriontech/zerion-wallet-extension) ![stars](https://img.shields.io/github/stars/zeriontech/zerion-wallet-extension) ![last commit](https://img.shields.io/github/last-commit/zeriontech/zerion-wallet-extension?style=flat-square) - Your crypto wallet for everything onchain.
+
 
 ## Android
 - [Unstoppable Wallet](https://github.com/horizontalsystems/unstoppable-wallet-android) ![stars](https://img.shields.io/github/stars/horizontalsystems/unstoppable-wallet-android) ![last commit](https://img.shields.io/github/last-commit/horizontalsystems/unstoppable-wallet-android?style=flat-square) - A powerful non-custodial multi-wallet for Bitcoin, Ethereum, Binance Smart Chain, Avalanche, Solana and other blockchains.
