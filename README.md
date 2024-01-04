@@ -1,4 +1,5 @@
 # Awesome Web3 Crypto Wallet and Web3 Client
+<a href="https://github.com/ethereum/solidity"><img src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" height="100"/></a><a href="https://github.com/stellar/rs-soroban-sdk"><img src="https://avatars.githubusercontent.com/u/7386716?s=200&v=4" height="100"/></a><a href="https://github.com/CosmWasm"><img src="https://avatars.githubusercontent.com/u/52079682?s=200&v=4" height="100"/></a><a href="https://github.com/move-language/move"><img src="https://avatars.githubusercontent.com/u/89158114?s=200&v=4" height="100"/></a>
 
 ## Contents
 
@@ -42,8 +43,6 @@ Bitcoin Qml GUI Wallet.
 - [PlutoWallet](https://github.com/RostislavLitovkin/PlutoWallet) ![stars](https://img.shields.io/github/stars/RostislavLitovkin/PlutoWallet) ![last commit](https://img.shields.io/github/last-commit/RostislavLitovkin/PlutoWallet?style=flat-square) - Multi-platform mobile wallet for substrate-based chains. Focuses on the best UX. First C# mobile wallet in Polkadot ecosystem.
 
 - [Wasabi](https://github.com/zkSNACKs/WalletWasabi) ![stars](https://img.shields.io/github/stars/zkSNACKs/WalletWasabi) ![last commit](https://img.shields.io/github/last-commit/zkSNACKs/WalletWasabi?style=flat-square) - Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac.
-
-- [Blue-Wallet-Coin-Storage](https://github.com/chupapuss/Blue-Wallet-Coin-Storage) ![stars](https://img.shields.io/github/stars/chupapuss/Blue-Wallet-Coin-Storage) ![last commit](https://img.shields.io/github/last-commit/chupapuss/Blue-Wallet-Coin-Storage?style=flat-square) - Multi-platform mobile wallet for substrate-based chains. Focuses on the best UX. First C# mobile wallet in Polkadot ecosystem.
 
 - [GeeWallet](https://github.com/nblockchain/geewallet) ![stars](https://img.shields.io/github/stars/nblockchain/geewallet) ![last commit](https://img.shields.io/github/last-commit/nblockchain/geewallet?style=flat-square) - geewallet is a minimalistic and pragmatist crossplatform lightweight opensource brainwallet for people that want to hold the most important cryptocurrencies in the same application with ease and peace of mind.
 
@@ -210,8 +209,6 @@ A simple Flutter app that demonstrates a wallet UI design.
 - [Block Stake UI](https://github.com/kingahmedino/block-stake-ui) ![stars](https://img.shields.io/github/stars/kingahmedino/block-stake-ui?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/kingahmedino/block-stake-ui?style=flat-square) - The UI built with Flutter for Block Stake - a staking dApp takes in an upgradeable token as stake asset and issues rewards in a different token.
 
 
-- [e_commerece_application](https://github.com/manarMatarya/e_commerece_application) ![stars](https://img.shields.io/github/stars/manarMatarya/e_commerece_application?style=flat-square=flat-square) ![last commit](https://img.shields.io/github/last-commit/manarMatarya/e_commerece_application?style=flat-square) - E-Commerce application to browse the goods and add them to the shopping cart and provide electronic payment methods.
-
 - [Fintech App UI](https://github.com/Atuoha/fintech_app_skins) ![stars](https://img.shields.io/github/stars/Atuoha/fintech_app_skins) ![last commit](https://img.shields.io/github/last-commit/Atuoha/fintech_app_skins?style=flat-square) - SwiftPay Fintech App using a prototype on Behance by Tonia Reuben
 
 
@@ -240,15 +237,15 @@ A simple Flutter app that demonstrates a wallet UI design.
 
 - [Pillar Wallet](https://github.com/pillarwallet/pillarwallet) ![stars](https://img.shields.io/github/stars/pillarwallet/pillarwallet) ![last commit](https://img.shields.io/github/last-commit/pillarwallet/pillarwallet?style=flat-square) - Pillar Wallet: Community owned, self custodial, smart contract wallet.
 
-- [Rainbow](https://github.com/rainbow-me/rainbow) ![stars](https://img.shields.io/github/stars/rainbow-me/rainbow) ![last commit](https://img.shields.io/github/last-commit/rainbow-me/rainbow?style=flat-square) - the Ethereum wallet that lives in your pocket! [Extension](https://github.com/rainbow-me/browser-extension).
-
 - [Taho Extension](https://github.com/tahowallet/extension) ![stars](https://img.shields.io/github/stars/tahowallet/extension) ![last commit](https://img.shields.io/github/last-commit/tahowallet/extension?style=flat-square) - Taho, the community owned and operated Web3 wallet.
 
-- [Safe{Wallet}](https://github.com/safe-global/safe-wallet-web) ![stars](https://img.shields.io/github/stars/safe-global/safe-wallet-web) ![last commit](https://img.shields.io/github/last-commit/safe-global/safe-wallet-web?style=flat-square) - Safe{Wallet} – smart contract wallet for Ethereum (ex-Gnosis Safe multisig). 
+- [Rainbow](https://github.com/rainbow-me/rainbow) ![stars](https://img.shields.io/github/stars/rainbow-me/rainbow) ![last commit](https://img.shields.io/github/last-commit/rainbow-me/rainbow?style=flat-square) - the Ethereum wallet that lives in your pocket! [Extension](https://github.com/rainbow-me/browser-extension).
+
+- [MetaMask Extension](https://github.com/MetaMask/metamask-extension) ![stars](https://img.shields.io/github/stars/MetaMask/metamask-extension) ![last commit](https://img.shields.io/github/last-commit/MetaMask/metamask-extension?style=flat-square) - The MetaMask browser extension enables browsing Ethereum blockchain enabled websites.
 
 - [Rabby Wallet](https://github.com/RabbyHub/Rabby) ![stars](https://img.shields.io/github/stars/RabbyHub/Rabby) ![last commit](https://img.shields.io/github/last-commit/RabbyHub/Rabby?style=flat-square) - Rabby Wallet is an open source browser plugin for the DeFi ecosystem, providing users with a better-to-use and more secure multi-chain experience.
 
-- [MetaMask Extension](https://github.com/MetaMask/metamask-extension) ![stars](https://img.shields.io/github/stars/MetaMask/metamask-extension) ![last commit](https://img.shields.io/github/last-commit/MetaMask/metamask-extension?style=flat-square) - The MetaMask browser extension enables browsing Ethereum blockchain enabled websites.
+- [Safe{Wallet}](https://github.com/safe-global/safe-wallet-web) ![stars](https://img.shields.io/github/stars/safe-global/safe-wallet-web) ![last commit](https://img.shields.io/github/last-commit/safe-global/safe-wallet-web?style=flat-square) - Safe{Wallet} – smart contract wallet for Ethereum (ex-Gnosis Safe multisig). 
 
 - [Liquality Wallet](https://github.com/liquality/wallet) ![stars](https://img.shields.io/github/stars/liquality/wallet) ![last commit](https://img.shields.io/github/last-commit/liquality/wallet?style=flat-square) - Liquality - cross chain browser wallet extension .
 
@@ -257,6 +254,8 @@ A simple Flutter app that demonstrates a wallet UI design.
 - [Zerion Extension](https://github.com/zeriontech/zerion-wallet-extension) ![stars](https://img.shields.io/github/stars/zeriontech/zerion-wallet-extension) ![last commit](https://img.shields.io/github/last-commit/zeriontech/zerion-wallet-extension?style=flat-square) - Your crypto wallet for everything onchain.
 
 - [Torus Wallet](https://github.com/torusresearch/torus-website) ![stars](https://img.shields.io/github/stars/torusresearch/torus-website) ![last commit](https://img.shields.io/github/last-commit/torusresearch/torus-website?style=flat-square) - Torus Wallet that provides dapps logins that feel like Web2.0.
+
+- [Frame Wallet](https://github.com/floating/frame) ![stars](https://img.shields.io/github/stars/floating/frame) ![last commit](https://img.shields.io/github/last-commit/floating/frame?style=flat-square) - F R A M E System-wide Web3 for macOS, Windows and Linux. Frame is a web3 platform that creates a secure system-wide interface to your chains and accounts. Now any browser, command-line, or native application has the ability to access web3.
 
 - [BitPay Wallet](https://github.com/bitpay/wallet) ![stars](https://img.shields.io/github/stars/bitpay/wallet) ![last commit](https://img.shields.io/github/last-commit/bitpay/wallet?style=flat-square) - Bitpay Wallet (formerly Copay) is a secure Bitcoin and other crypto currencies wallet platform for both desktop and mobile devices.
 
@@ -339,6 +338,25 @@ A simple Flutter app that demonstrates a wallet UI design.
 
 - [BitGo Multi-Sig](https://github.com/BitGo/eth-multisig-v2) ![stars](https://img.shields.io/github/stars/BitGo/eth-multisig-v2) ![last commit](https://img.shields.io/github/last-commit/BitGo/eth-multisig-v2?style=flat-square) - Ethereum MultiSig Wallet Contract
 
+## Meta Transactions
+
+- [ERC20 Multi Meta Transaction](https://github.com/KennieHarold/multi-metatx) ![stars](https://img.shields.io/github/stars/KennieHarold/multi-metatx) ![last commit](https://img.shields.io/github/last-commit/KennieHarold/multi-metatx?style=flat-square) - Multi Meta Transaction on Ethereum with EIP-712 and ERC-2612 Standards.
+
+- [MetaTx Processor](https://github.com/wighawag/singleton-1776-meta-transaction) ![stars](https://img.shields.io/github/stars/wighawag/singleton-1776-meta-transaction) ![last commit](https://img.shields.io/github/last-commit/wighawag/singleton-1776-meta-transaction?style=flat-square) - A Singleton MetaTx Processor using EIP-1776 that support all ERC20 tokens.
+
+- [Ethereum ERC-20 Meta-Transaction](https://github.com/pcaversaccio/metatx) ![stars](https://img.shields.io/github/stars/pcaversaccio/metatx) ![last commit](https://img.shields.io/github/last-commit/pcaversaccio/metatx?style=flat-square) - A smart contract to enable ERC-20 token meta-transactions on Ethereum.
+
+- [Dharma Smart Wallet](https://github.com/dharma-eng/dharma-smart-wallet) ![stars](https://img.shields.io/github/stars/dharma-eng/dharma-smart-wallet) ![last commit](https://img.shields.io/github/last-commit/dharma-eng/dharma-smart-wallet?style=flat-square) - The Dharma Smart Wallet is a 2/2 "multisig" smart contract, controlled by the user's Dharma Key Ring and by Dharma Labs.
+
+- [0x meta transaction](https://github.com/0xProject/0x-monorepo/blob/development/contracts/exchange/contracts/src/MixinTransactions.sol) ![stars](https://img.shields.io/github/stars/0xProject/0x-monorepo) ![last commit](https://img.shields.io/github/last-commit/0xProject/0x-monorepo?style=flat-square).
+
+- [Meta Transactions](https://github.com/aglawson/Meta-Transactions) ![stars](https://img.shields.io/github/stars/aglawson/Meta-Transactions) ![last commit](https://img.shields.io/github/last-commit/aglawson/Meta-Transactions?style=flat-square) - Send a relay transaction without paying any gas fees while still ensuring security..
+
+- [MetaMask: MetaTransaction Hackathon Winner!](https://medium.com/metamask/our-metatransaction-hackathon-winner-a620551ccb9b)
+
+- [Ambire: Understanding Meta Transactions](https://blog.ambire.com/understanding-meta-transactions/)
+
+- [How to implement generalized meta transactions](https://soliditydeveloper.com/meta-transactions)
 
 ## Other Tools
 
@@ -355,11 +373,19 @@ A simple Flutter app that demonstrates a wallet UI design.
 
 ## Just for fun
 
+- [0x Mesh](https://github.com/0xProject/0x-mesh) ![stars](https://img.shields.io/github/stars/0xProject/0x-mesh) ![last commit](https://img.shields.io/github/last-commit/0xProject/0x-mesh?style=flat-square) - A peer-to-peer network for sharing 0x orders.
+
+- [Flashbots RPC](https://github.com/flashbots/rpc-endpoint) ![stars](https://img.shields.io/github/stars/flashbots/rpc-endpoint) ![last commit](https://img.shields.io/github/last-commit/flashbots/rpc-endpoint?style=flat-square) - Flashbots RPC endpoint, to be used with wallets (eg. MetaMask).
+
+- [Stackup Bundler ](https://github.com/stackup-wallet/stackup-bundler) ![stars](https://img.shields.io/github/stars/stackup-wallet/stackup-bundler) ![last commit](https://img.shields.io/github/last-commit/stackup-wallet/stackup-bundler?style=flat-square) - A modular Go implementation of an ERC-4337 Bundler.
+
 - [CryptoSwap](https://github.com/KambizAsadzadeh/CryptoSwap) ![stars](https://img.shields.io/github/stars/KambizAsadzadeh/CryptoSwap) ![last commit](https://img.shields.io/github/last-commit/KambizAsadzadeh/CryptoSwap?style=flat-square) - Crypto swap concept based on Qt Quick Technology.
 
-- [CuteMobile](https://github.com/KambizAsadzadeh/CuteMobile) ![stars](https://img.shields.io/github/stars/KambizAsadzadeh/CuteMobile) ![last commit](https://img.shields.io/github/last-commit/KambizAsadzadeh/CuteMobile?style=flat-square) - A concept mobile app UI/UX prototype based on Qt Quick technology.
+- [Binance Trading Bot](https://github.com/chrisleekr/binance-trading-bot) ![stars](https://img.shields.io/github/stars/chrisleekr/binance-trading-bot) ![last commit](https://img.shields.io/github/last-commit/chrisleekr/binance-trading-bot?style=flat-square) - Automated Binance trading bot - Trade multiple cryptocurrencies. Buy low/sell high with Grid Trading. Integrated with TradingView technical analysis.
 
 - [Haehnchen Crypto Trading Bot](https://github.com/Haehnchen/crypto-trading-bot) ![stars](https://img.shields.io/github/stars/Haehnchen/crypto-trading-bot) ![last commit](https://img.shields.io/github/last-commit/Haehnchen/crypto-trading-bot?style=flat-square) - Cryptocurrency trading bot in javascript for Bitfinex, Bitmex, Binance, Bybit ... (public edition) 
+
+- [coinstate](https://github.com/subrotokumar/coinstate) ![stars](https://img.shields.io/github/stars/subrotokumar/coinstate) ![last commit](https://img.shields.io/github/last-commit/subrotokumar/coinstate?style=flat-square) - Cryptocurrency Tracker application for mobile
 
 - [Cryptocurrency Watcher in Blazor](https://github.com/Marfusios/crypto-watcher-blazor) ![stars](https://img.shields.io/github/stars/Marfusios/crypto-watcher-blazor) ![last commit](https://img.shields.io/github/last-commit/Marfusios/crypto-watcher-blazor?style=flat-square) - About
 Cryptocurrency real-time prices and order book in the webassembly application
@@ -370,5 +396,11 @@ Cryptocurrency real-time prices and order book in the webassembly application
 
 - [ESSE](https://github.com/CympleTech/ESSE) ✨![stars](https://img.shields.io/github/stars/CympleTech/ESSE?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/CympleTech/ESSE?style=flat-square) - Encrypted peer-to-peer IM for data security. Own data, own privacy.
 
+- [CuteMobile](https://github.com/KambizAsadzadeh/CuteMobile) ![stars](https://img.shields.io/github/stars/KambizAsadzadeh/CuteMobile) ![last commit](https://img.shields.io/github/last-commit/KambizAsadzadeh/CuteMobile?style=flat-square) - A concept mobile app UI/UX prototype based on Qt Quick technology.
 
 - [Palem Kafe POS App](https://github.com/triagung128/fic-mini-project) ![stars](https://img.shields.io/github/stars/triagung128/fic-mini-project=flat-square) ![last commit](https://img.shields.io/github/last-commit/triagung128/fic-mini-project?style=flat-square) - 🎉 This project is a mini-project challenge with the topic of point of sales in the FIC (Flutter Intensive Club) program hosted by FUGI (Flutter User Group Indonesia).
+
+- [https://summer.fi/borrow](https://summer.fi/borrow)
+
+- [https://daistats.com/](https://daistats.com/)
+
