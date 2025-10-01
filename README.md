@@ -1,4 +1,5 @@
 # Awesome Web3 Crypto Wallet and Web3 Client
+
 <a href="https://github.com/ethereum/solidity"><img src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" alt="Ethereum EVM" height="50"/></a><a href="https://soroban.stellar.org/docs"><img src="https://avatars.githubusercontent.com/u/7386716?s=200&v=4" height="50"/></a><a href="https://book.cosmwasm.com/"><img src="https://avatars.githubusercontent.com/u/52079682?s=200&v=4" height="50"/></a><a href="https://github.com/move-language/move"><img src="https://avatars.githubusercontent.com/u/89158114?s=200&v=4" height="50"/></a><a href="https://docs.ton.org/develop/smart-contracts/"><img src="https://avatars.githubusercontent.com/u/55018343?s=200&v=4" height="50"/></a><a href="https://docs.solana.com/"><img src="https://raw.githubusercontent.com/github/explore/14191328e15689ba52d5c10e18b43417bf79b2ef/topics/solana/solana.png" height="50"/></a><a href="https://docs.tezos.com/overview/"><img src="https://avatars.githubusercontent.com/u/21209817?s=200&v=4" height="50"/></a><a href="https://github.com/paritytech/polkadot-sdk"><img src="https://user-images.githubusercontent.com/25497083/148661419-419ad5b3-1b9f-480a-b723-3f292616730c.png" height="50"/></a>
 
 ## Contents
@@ -15,7 +16,7 @@
 - [Komodo Wallet Desktop](https://github.com/KomodoPlatform/komodo-wallet-desktop) ![stars](https://img.shields.io/github/stars/KomodoPlatform/komodo-wallet-desktop?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/KomodoPlatform/komodo-wallet-desktop?style=flat-square) - Komodo Wallet is a secure wallet and non-custodial decentralized exchange rolled into one application. Store your coins, trade peer-to-peer with minimal fees and never give up control over your digital assets.
 
 - [Bitcoin GUI](https://github.com/bitcoin-core/gui-qml) ![stars](https://img.shields.io/github/stars/bitcoin-core/gui-qml?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/bitcoin-core/gui-qml?style=flat-square)
-Bitcoin Qml GUI Wallet.
+  Bitcoin Qml GUI Wallet.
 
 - [CellFrame Dashboard](https://github.com/demlabs-cellframe/cellframe-dashboard) ![stars](https://img.shields.io/github/stars/demlabs-cellframe/cellframe-dashboard?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/demlabs-cellframe/cellframe-dashboard?style=flat-square) - CellFrame Dashboard.
 
@@ -37,11 +38,9 @@ Bitcoin Qml GUI Wallet.
 
 - [Aleth](https://github.com/ethereum/aleth) ![stars](https://img.shields.io/github/stars/ethereum/aleth?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/ethereum/aleth?style=flat-square) - Aleth – Ethereum C++ client, tools and libraries.
 
-
 - [MWC Qt Wallet](https://github.com/mwcproject/mwc-qt-wallet) ![stars](https://img.shields.io/github/stars/mwcproject/mwc-qt-wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/mwcproject/mwc-qt-wallet?style=flat-square)
 
 - [wallet-kit-core ](https://github.com/rockwalletcode/wallet-kit-core) ![stars](https://img.shields.io/github/stars/rockwalletcode/wallet-kit-core?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/mwcproject/mwc-qt-wallet?style=flat-square)
-
 
 ## CSharp
 
@@ -53,7 +52,7 @@ Bitcoin Qml GUI Wallet.
 
 - [GeeWallet](https://github.com/nblockchain/geewallet) ![stars](https://img.shields.io/github/stars/nblockchain/geewallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/nblockchain/geewallet?style=flat-square) - geewallet is a minimalistic and pragmatist crossplatform lightweight opensource brainwallet for people that want to hold the most important cryptocurrencies in the same application with ease and peace of mind. F#
 
-- [Oisy Wallet](https://github.com/dfinity/oisy-wallet) ![stars](https://img.shields.io/github/stars/dfinity/oisy-wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/dfinity/oisy-wallet?style=flat-square) - A novel Ethereum wallet hosted on the Internet Computer 
+- [Oisy Wallet](https://github.com/dfinity/oisy-wallet) ![stars](https://img.shields.io/github/stars/dfinity/oisy-wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/dfinity/oisy-wallet?style=flat-square) - A novel Ethereum wallet hosted on the Internet Computer
 
 - [Nethereum](https://github.com/Nethereum/Nethereum) ![stars](https://img.shields.io/github/stars/Nethereum/Nethereum?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/Nethereum/Nethereum?style=flat-square) - Ethereum .Net cross platform integration library!
 
@@ -73,22 +72,27 @@ Bitcoin Qml GUI Wallet.
 
 - [HODL Wallet](https://github.com/hodlwallet/hodlwallet) ![stars](https://img.shields.io/github/stars/hodlwallet/hodlwallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/hodlwallet/hodlwallet?style=flat-square) - HODL Wallet 2.0.
 
-- [Ox Box Wallet](https://github.com/ox-box/wallet) ![stars](https://img.shields.io/github/stars/ox-box/wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/ox-box/wallet?style=flat-square) - Ox-box is the fullnode wallet of ox-eco blockchain 
+- [Ox Box Wallet](https://github.com/ox-box/wallet) ![stars](https://img.shields.io/github/stars/ox-box/wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/ox-box/wallet?style=flat-square) - Ox-box is the fullnode wallet of ox-eco blockchain
 
-- [Hathor.Client](https://github.com/michielpost/Hathor.Client) ![stars](https://img.shields.io/github/stars/michielpost/Hathor.Client?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/ox-box/wallet?style=flat-square) -  Client for Hathor Wallet API 
+- [Hathor.Client](https://github.com/michielpost/Hathor.Client) ![stars](https://img.shields.io/github/stars/michielpost/Hathor.Client?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/ox-box/wallet?style=flat-square) - Client for Hathor Wallet API
 
 - [Hyperledger Wallet Framework for .NET](https://github.com/openwallet-foundation-labs/wallet-framework-dotnet) ![stars](https://img.shields.io/github/stars/openwallet-foundation-labs/wallet-framework-dotnet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/openwallet-foundation-labs/wallet-framework-dotnet?style=flat-square) -Wallet Framework for .NET is an open framework for building digital identity wallets. The framework was initiated as Aries Framework .NET in the Hyperledger Foundation and was forked to express the goal to broaden the supported identity protocols, especially with regard to OID4VC and SD-JWT.
 
 ## Flutter
+
 ### Flutter Wallet
-- [Komodo Wallet](https://github.com/KomodoPlatform/komodo-wallet-mobile) ✨![stars](https://img.shields.io/github/stars/KomodoPlatform/komodo-wallet-mobile?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/KomodoPlatform/komodo-wallet-mobile?style=flat-square) <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" height="20"/>
+
+- [Komodo Wallet Mobile](https://github.com/KomodoPlatform/komodo-wallet-mobile) ✨![stars](https://img.shields.io/github/stars/KomodoPlatform/komodo-wallet-mobile?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/KomodoPlatform/komodo-wallet-mobile?style=flat-square) <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" height="20"/>
 
     <img src="https://github.com/KomodoPlatform/komodo-wallet-mobile/blob/master/assets/branding/ic_launcher.png?raw=true" height="20"/>
     Komodo Wallet Mobile.
 
-- [MRT Wallet](https://github.com/mrtnetwork/mrtwallet) ✨![stars](https://img.shields.io/github/stars/mrtnetwork/mrtwallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/mrtnetwork/mrtwallet?style=flat-square) - Open-source decentralized wallet for the future of finance. Securely manage assets, support for Bitcoin, Dogecoin, Dash, Ripple, Litecoin, Android, Windows, web.
+- [Komodo Wallet](https://github.com/KomodoPlatform/komodo-wallet) ✨![stars](https://img.shields.io/github/stars/KomodoPlatform/komodo-wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/KomodoPlatform/komodo-wallet?style=flat-square) - Komodo Wallet & DEX.
 
-    
+- [MRT OnChain Wallet](https://github.com/mrtnetwork/onchain_wallet) ✨![stars](https://img.shields.io/github/stars/mrtnetwork/onchain_wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/mrtnetwork/onchain_wallet?style=flat-square) - Open-source decentralized wallet for the future of finance. Securely manage assets, support for Bitcoin, XRP, Ethereum, Tron, Ton, Cosmos, Kusama, Polkadot, Substrate, Monero, Aptos, Sui, Stellar , Dogecoin, Litecoin, Dash and more.
+
+- [ZilPay Mobile Wallet](https://github.com/zilpay/zilpay-mobile) ✨![stars](https://img.shields.io/github/stars/zilpay/zilpay-mobile?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/zilpay/zilpay-mobile?style=flat-square) - ZilPay is a quantum-resistant, multi-currency decentralized wallet.
+
 - [TalaoAltMe](https://github.com/TalaoDAO/AltMe) ✨![stars](https://img.shields.io/github/stars/TalaoDAO/AltMe?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/TalaoDAO/AltMe?style=flat-square)<img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" height="20"/>
 
     <img src="https://github.com/TalaoDAO/AltMe/blob/main/assets/launcher_icon.png?raw=true" height="20"/>
@@ -97,17 +101,18 @@ Bitcoin Qml GUI Wallet.
 - [Candide Mobile Wallet](https://github.com/candidelabs/candide-mobile-app) ✨![stars](https://img.shields.io/github/stars/candidelabs/candide-mobile-app?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/candidelabs/candide-mobile-app?style=flat-square) - CANDIDE Wallet - The Golden Standard for ERC-4337 smart contract wallets .
 
 - [Cake Wallet](https://github.com/cake-tech/cake_wallet) ![stars](https://img.shields.io/github/stars/cake-tech/cake_wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/cake-tech/cake_wallet?style=flat-square)
-    
-    <img src="https://github.com/cake-tech/cake_wallet/blob/main/assets/images/cakewallet_app_logo.png?raw=true" height="20"/>
+
+    <img src="https://github.com/cake-tech/cake_wallet/blob/main/assets/images/cakewallet_logo.png?raw=true" height="20"/>
     Open Source Multi-Currency Wallet.
 
 - [Stack Wallet](https://github.com/cypherstack/stack_wallet) ![stars](https://img.shields.io/github/stars/cypherstack/stack_wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/cypherstack/stack_wallet?style=flat-square) - Stack Wallet is a multicoin, fully open source cryptocurrency wallet.
 
 - [EliteWallet](https://github.com/Elite-Labs/EliteWallet) ✨![stars](https://img.shields.io/github/stars/Elite-Labs/EliteWallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/Elite-Labs/EliteWallet?style=flat-square) <img src="https://github.com/Elite-Labs/EliteWallet/blob/master/assets/images/elitewallet_logo.png?raw=true" height="20"/>
-    Open Source Multi-Currency Wallet.
+  Open Source Multi-Currency Wallet.
 
 - [Mixin Wallet](https://github.com/MixinNetwork/mixin-wallet) ✨![stars](https://img.shields.io/github/stars/MixinNetwork/mixin-wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/MixinNetwork/mixin-wallet?style=flat-square) - Mixin cryptocurrency wallet based on Flutter .
 
+- [Mobarter](https://github.com/philix27/mobarter-2025) ✨![stars](https://img.shields.io/github/stars/philix27/mobarter-2025?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/philix27/mobarter-2025?style=flat-square) - Mobarter is your all-in-one platform for managing everyday payments using cryptocurrency. From paying baills to sending scheduled payments to friends and family, Mobarter makes crypto practical for daily life. Plus, you can save towards your financial goals and earn rewards as you do.
 
 - [SafePal Wallet](https://github.com/SafePalWallet/safepal-app) ![stars](https://img.shields.io/github/stars/SafePalWallet/safepal-app?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/SafePalWallet/safepal-app?style=flat-square) - SafePal Wallet.
 
@@ -126,10 +131,9 @@ Bitcoin Qml GUI Wallet.
 - [Breez Mobile Client](https://github.com/breez/breezmobile) ![stars](https://img.shields.io/github/stars/breez/breezmobile?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/breez/breezmobile?style=flat-square) - Breez is a Lightning Network mobile client and a hub. It provides a platform for simple, instantaneous bitcoin payments.
 
 - [crypto_wallet_app](https://github.com/cscoderr/crypto_wallet_app)✨ ![stars](https://img.shields.io/github/stars/cscoderr/crypto_wallet_app?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/cscoderr/crypto_wallet_app?style=flat-square)<img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" height="20"/>
-    A flutter crypto wallet that works like Metamask, Trust wallet and others. It is based on ERC-20 tokens and uses flutter-bloc as state management.
+  A flutter crypto wallet that works like Metamask, Trust wallet and others. It is based on ERC-20 tokens and uses flutter-bloc as state management.
 
 - [MyJetWallet](https://github.com/MyJetWallet/Flutter.JetWallet) ![stars](https://img.shields.io/github/stars/MyJetWallet/Flutter.JetWallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/MyJetWallet/Flutter.JetWallet?style=flat-square) - Flutter.JetWallet.
-
 
 - [ether-wallet-flutter](https://github.com/allanclempe/ether-wallet-flutter) ![stars](https://img.shields.io/github/stars/allanclempe/ether-wallet-flutter?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/allanclempe/ether-wallet-flutter?style=flat-square) - A ethereum digital wallet written in dart and flutter framework.
 
@@ -149,8 +153,8 @@ Bitcoin Qml GUI Wallet.
 
 - [Archethic Wallet](https://github.com/archethic-foundation/archethic-wallet) ![stars](https://img.shields.io/github/stars/archethic-foundation/archethic-wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/archethic-foundation/archethic-wallet?style=flat-square) - Archethic Wallet.
 
-- [myWitWallet](https://github.com/witnet/my-wit-wallet) ![stars](https://img.shields.io/github/stars/witnet/my-wit-wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/witnet/my-wit-wallet?style=flat-square) <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" height="20"/> 
-myWitWallet is a Witnet light wallet for mobile and desktop.
+- [myWitWallet](https://github.com/witnet/my-wit-wallet) ![stars](https://img.shields.io/github/stars/witnet/my-wit-wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/witnet/my-wit-wallet?style=flat-square) <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" height="20"/>
+  myWitWallet is a Witnet light wallet for mobile and desktop.
 
 - [Chia Green Wallet](https://github.com/Green-App-Development/green-wallet-android-source) ![stars](https://img.shields.io/github/stars/Green-App-Development/green-wallet-android-source?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/Green-App-Development/green-wallet-android-source?style=flat-square) - Green Wallet - non-custodial wallet for Chia.
 
@@ -162,7 +166,7 @@ myWitWallet is a Witnet light wallet for mobile and desktop.
 
 - [Occam Wallet](https://github.com/blakewood84/occam) ![stars](https://img.shields.io/github/stars/blakewood84/occam?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/blakewood84/occam?style=flat-square) - A Solona Wallet w/Flutter and Node.js
 
-- [TWallet](https://github.com/tw-bc-group/TWallet) ![stars](https://img.shields.io/github/stars/tw-bc-group/TWallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/tw-bc-group/TWallet?style=flat-square) - A highly modularized white-labeling digital wallet framework. 
+- [TWallet](https://github.com/tw-bc-group/TWallet) ![stars](https://img.shields.io/github/stars/tw-bc-group/TWallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/tw-bc-group/TWallet?style=flat-square) - A highly modularized white-labeling digital wallet framework.
 
 - [Peercoin Wallet](https://github.com/peercoin/peercoin_flutter) ![stars](https://img.shields.io/github/stars/peercoin/peercoin_flutter?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/peercoin/peercoin_flutter?style=flat-square) - Light Peercoin wallet written in Flutter, deployable on Android, iOS and Web.
 
@@ -173,7 +177,7 @@ myWitWallet is a Witnet light wallet for mobile and desktop.
 - [flutter-crypto-wallet](https://github.com/JErazo7/flutter-crypto-wallet) ![stars](https://img.shields.io/github/stars/JErazo7/flutter-crypto-wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/JErazo7/flutter-crypto-wallet?style=flat-square) - A multiplatform (Android, iOS, Web and macOS) crypto-wallet example created with Flutter and CoinGecko API.
 
 - [flutter-wallet-app](https://github.com/meetalif/flutter-wallet-app) ![stars](https://img.shields.io/github/stars/meetalif/flutter-wallet-app?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/meetalif/flutter-wallet-app?style=flat-square) - About
-A simple Flutter app that demonstrates a wallet UI design.
+  A simple Flutter app that demonstrates a wallet UI design.
 
 - [Cryptocurrency_Wallet](https://github.com/ankitghosh00/Cryptocurrency_Wallet) ![stars](https://img.shields.io/github/stars/ankitghosh00/Cryptocurrency_Wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/ankitghosh00/Cryptocurrency_Wallet?style=flat-square) - Cryptocurrency_Wallet.
 
@@ -182,7 +186,6 @@ A simple Flutter app that demonstrates a wallet UI design.
 - [Fuse Wallet](https://github.com/fuseio/fuse-wallet) ![stars](https://img.shields.io/github/stars/fuseio/fuse-wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/fuseio/fuse-wallet?style=flat-square) - The Fuse Wallet built upon the charge_wallet_SDK, which provides a gateway to the Wallet API.
 
 - [SAND Wallet](https://github.com/viktorvoltz/SAND-wallet) ![stars](https://img.shields.io/github/stars/viktorvoltz/SAND-wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/viktorvoltz/SAND-wallet?style=flat-square) - An on-chain crypto wallet made w/ flutter.
-
 
 - [JoinSEEDS](https://github.com/JoinSEEDS/seeds_light_wallet) ![stars](https://img.shields.io/github/stars/JoinSEEDS/seeds_light_wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/JoinSEEDS/seeds_light_wallet?style=flat-square) - Opensource Wallet & Explorer by joinseeds.com.
 
@@ -195,9 +198,12 @@ A simple Flutter app that demonstrates a wallet UI design.
 - [Kumuly Pocket](https://github.com/kumuly/kumuly_pocket) ![stars](https://img.shields.io/github/stars/kumuly/kumuly_pocket?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/kumuly/kumuly_pocket?style=flat-square) - Kumuly Pocket is the ultimate app for spending sats on great deals and for onboarding merchants to Bitcoin. With its integrated non-custodial Lightning wallet, carrying sats for your daily needs and treats has never been easier.
 
 ### Flutter SDK / Libraries
+
 - [Flutter TrustWalletCore](https://github.com/weishirongzhen/flutter_trust_wallet_core) ![stars](https://img.shields.io/github/stars/weishirongzhen/flutter_trust_wallet_core?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/weishirongzhen/flutter_trust_wallet_core?style=flat-square) - Flutter bindings for TrustWalletCore library.
 
 - [Stellar SDK for Flutter](https://github.com/Soneso/stellar_flutter_sdk) ✨![stars](https://img.shields.io/github/stars/Soneso/stellar_flutter_sdk?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/Soneso/stellar_flutter_sdk?style=flat-square) - The Soneso open source Stellar SDK for Flutter is build with Dart and provides APIs to build and sign transactions, connect and query Horizon.
+
+- [Reown - Flutter](https://github.com/reown-com/reown_flutter) ✨![stars](https://img.shields.io/github/stars/reown-com/reown_flutter?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/reown-com/reown_flutter?style=flat-square) - Reown is the onchain UX platform that provides toolkits built on top of the WalletConnect Network that enable builders to create onchain user experiences that make digital ownership effortless, intuitive, and secure.
 
 - [web3dart](https://github.com/xclud/web3dart) ✨![stars](https://img.shields.io/github/stars/xclud/web3dart?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/xclud/web3dart?style=flat-square) - Ethereum library, written in Dart.
 
@@ -215,16 +221,13 @@ A simple Flutter app that demonstrates a wallet UI design.
 
 - [Agent Dart](https://github.com/astroxnetwork/agent_dart) ![stars](https://img.shields.io/github/stars/astroxnetwork/agent_dart?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/astroxnetwork/agent_dart?style=flat-square) - Agent library for Internet Computer, in Dart.
 
-
-
 - [wallet-connect-dart](https://github.com/orange-wallet/wallet-connect-dart) ![stars](https://img.shields.io/github/stars/orange-wallet/wallet-connect-dart?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/orange-wallet/wallet-connect-dart?style=flat-square) - Wallet Connect client in Dart.
 
-- [walletconnect-dart-sdk](https://github.com/rootsoft/walletconnect-dart-sdk) ![stars](https://img.shields.io/github/stars/rootsoft/walletconnect-dart-sdk?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/rootsoft/walletconnect-dart-sdk?style=flat-square) -  Open protocol for connecting dApps to mobile wallets with QR code scanning or deep linking.
+- [walletconnect-dart-sdk](https://github.com/rootsoft/walletconnect-dart-sdk) ![stars](https://img.shields.io/github/stars/rootsoft/walletconnect-dart-sdk?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/rootsoft/walletconnect-dart-sdk?style=flat-square) - Open protocol for connecting dApps to mobile wallets with QR code scanning or deep linking.
 
 - [wallet_connect](https://github.com/viktorvoltz/wallet_connect) ![stars](https://img.shields.io/github/stars/viktorvoltz/wallet_connect?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/viktorvoltz/wallet_connect?style=flat-square) - connect a flutter web interface to a crypto wallet .
 
 - [Mofa](https://github.com/mofalabs/aptos) ![stars](https://img.shields.io/github/stars/mofalabs/aptos?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/mofalabs/aptos?style=flat-square) - Mofa cross-platform Aptos SDK for Mobile, Web and Desktop.
-
 
 - [cardano_wallet_sdk](https://github.com/reaster/cardano_wallet_sdk) ![stars](https://img.shields.io/github/stars/reaster/cardano_wallet_sdk?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/reaster/cardano_wallet_sdk?style=flat-square) - Flutter SDK for building Cardano blockchain mobile apps in Flutter using the Dart programming language.
 
@@ -234,18 +237,17 @@ A simple Flutter app that demonstrates a wallet UI design.
 - [aeweb](https://github.com/archethic-foundation/aeweb) ![stars](https://img.shields.io/github/stars/archethic-foundation/aeweb?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/archethic-foundation/aeweb?style=flat-square) - Host websites: Deploy and update static sites on the Archethic Blockchain.
 - [Flutter-Blockchain](https://github.com/aniketambore/Flutter-Blockchain) ✨![stars](https://img.shields.io/github/stars/aniketambore/Flutter-Blockchain?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/aniketambore/Flutter-Blockchain?style=flat-square) - Flutter and Blockchain DAPPS.
 
-- [espresso-cash-public](https://github.com/espresso-cash/espresso-cash-public) ![stars](https://img.shields.io/github/stars/espresso-cash/espresso-cash-public?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/espresso-cash/espresso-cash-public?style=flat-square) - Dart and Flutter apps and libraries maintained by Espresso Cash team for Solana. 
+- [espresso-cash-public](https://github.com/espresso-cash/espresso-cash-public) ![stars](https://img.shields.io/github/stars/espresso-cash/espresso-cash-public?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/espresso-cash/espresso-cash-public?style=flat-square) - Dart and Flutter apps and libraries maintained by Espresso Cash team for Solana.
 
 - [Blockchain-Based-Property-Registration](https://github.com/saurabh-m-w/Blockchain-Based-Property-Registration) ![stars](https://img.shields.io/github/stars/saurabh-m-w/Blockchain-Based-Property-Registration?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/saurabh-m-w/Blockchain-Based-Property-Registration?style=flat-square) - Blockchain-Based-Property-Registration.
 
 - [Sahayog](https://github.com/UtkarshA135/Sahayog) ![stars](https://img.shields.io/github/stars/UtkarshA135/Sahayog?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/UtkarshA135/Sahayog?style=flat-square) - keeps a track of all your day to day transactions by using Ethereum blockchain in the background which in turn increases your credit score.
 
-- [dapp_to_wallet](https://github.com/chyiiiiiiiiiiii/dapp_to_wallet) ![stars](https://img.shields.io/github/stars/chyiiiiiiiiiiii/dapp_to_wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/chyiiiiiiiiiiii/dapp_to_wallet?style=flat-square) - Mobile DApp can connect wallet, and communicate with contract. 
-
+- [dapp_to_wallet](https://github.com/chyiiiiiiiiiiii/dapp_to_wallet) ![stars](https://img.shields.io/github/stars/chyiiiiiiiiiiii/dapp_to_wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/chyiiiiiiiiiiii/dapp_to_wallet?style=flat-square) - Mobile DApp can connect wallet, and communicate with contract.
 
 - [CryptoPlatz Vault](https://github.com/cryptoplatz-vault/cryptoplatz) ![stars](https://img.shields.io/github/stars/cryptoplatz-vault/cryptoplatz?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/cryptoplatz-vault/cryptoplatz?style=flat-square) - Full open source of the CryptoPlatz App to use CryptoPlatz Vault.
 
-- [Digital-Wallet-UI-Flutter](https://github.com/Umar-Waseem/Digital-Wallet-UI-Flutter) ![stars](https://img.shields.io/github/stars/Umar-Waseem/Digital-Wallet-UI-Flutter?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/Umar-Waseem/Digital-Wallet-UI-Flutter?style=flat-square) - Front end UI for a Digital Currency Wallet App made using Flutter. 
+- [Digital-Wallet-UI-Flutter](https://github.com/Umar-Waseem/Digital-Wallet-UI-Flutter) ![stars](https://img.shields.io/github/stars/Umar-Waseem/Digital-Wallet-UI-Flutter?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/Umar-Waseem/Digital-Wallet-UI-Flutter?style=flat-square) - Front end UI for a Digital Currency Wallet App made using Flutter.
 
 - [etherum-wallet](https://github.com/kauemurakami/etherum-wallet) ![stars](https://img.shields.io/github/stars/kauemurakami/etherum-wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/kauemurakami/etherum-wallet?style=flat-square) - Flutter, Ganache, Truffle, Remix, Getx Pattern, Infura, GetX, Blockchain.
 
@@ -264,8 +266,8 @@ A simple Flutter app that demonstrates a wallet UI design.
 
 - [Fintech App UI](https://github.com/Atuoha/fintech_app_skins) ![stars](https://img.shields.io/github/stars/Atuoha/fintech_app_skins?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/Atuoha/fintech_app_skins?style=flat-square) - SwiftPay Fintech App using a prototype on Behance by Tonia Reuben
 
-
 ## TypeScript
+
 - [EdgeApp](https://github.com/EdgeApp/edge-react-gui) ![stars](https://img.shields.io/github/stars/EdgeApp/edge-react-gui?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/EdgeApp/edge-react-gui?style=flat-square) - A multi-currency mobile wallet for Bitcoin, Ethereum, Monero, Dash, Litecoin, Bitcoin Cash, Ripple/XRP, Polkadot, Tron, Solana, Stellar, Fantom, Algorand, Optimism, Zcash, Pirate Chain, and many others.
 
 - [OneKey](https://github.com/OneKeyHQ/app-monorepo) ![stars](https://img.shields.io/github/stars/OneKeyHQ/app-monorepo?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/OneKeyHQ/app-monorepo?style=flat-square) - OneKey - Open Source Crypto Wallet - Multi-currency mobile wallet.
@@ -273,8 +275,6 @@ A simple Flutter app that demonstrates a wallet UI design.
 - [MultiCurrencyWallet](https://github.com/swaponline/MultiCurrencyWallet) ![stars](https://img.shields.io/github/stars/swaponline/MultiCurrencyWallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/swaponline/MultiCurrencyWallet?style=flat-square) - Bitcoin, Ethereum, ERC20 crypto wallets with 0x and atomic swap exchange.
 
 - [enKrypt Wallet](https://github.com/enkryptcom/enKrypt) ![stars](https://img.shields.io/github/stars/enkryptcom/enKrypt?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/enkryptcom/enKrypt?style=flat-square) - Enkrypt: Ethereum, Polkadot and Web3 Wallet .
-
-- [Kryptik Wallet](https://github.com/KryptikApp/kryptikwebapp) ![stars](https://img.shields.io/github/stars/KryptikApp/kryptikwebapp?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/KryptikApp/kryptikwebapp?style=flat-square) - Kryptik provides a single interface for your most important online interactions. Swap, send, and save across 10+ blockchains with the Kryptik web wallet.
 
 - [AirGap Wallet](https://github.com/airgap-it/airgap-wallet) ![stars](https://img.shields.io/github/stars/airgap-it/airgap-wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/airgap-it/airgap-wallet?style=flat-square) - AirGap is a crypto wallet system that lets you secure cypto assets with one secret on an offline device.
 
@@ -286,7 +286,7 @@ A simple Flutter app that demonstrates a wallet UI design.
 
 - [walless](https://github.com/cocrafts/walless) ![stars](https://img.shields.io/github/stars/cocrafts/walless?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/cocrafts/walless?style=flat-square) - Making [crypto wallets](https://walless.io/) easily accessible, understandable and integrated into web2 and web3 sites and applications.
 
-- [Brume Wallet](https://github.com/brumewallet/wallet) ![stars](https://img.shields.io/github/stars/brumewallet/wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/brumewallet/wallet?style=flat-square) - The private Ethereum wallet with built-in Tor.
+- [Brume Wallet](https://github.com/brumeproject/wallet) ![stars](https://img.shields.io/github/stars/brumeproject/wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/brumeproject/wallet?style=flat-square) - The private Ethereum wallet with built-in Tor.
 
 - [AmbireTech Wallet](https://github.com/AmbireTech/wallet) ![stars](https://img.shields.io/github/stars/AmbireTech/wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/AmbireTech/wallet?style=flat-square) - Ambire Wallet: A full featured self-custodial DeFi wallet superapp focused on UX using account abstraction.
 
@@ -300,13 +300,15 @@ A simple Flutter app that demonstrates a wallet UI design.
 
 - [Taho Extension](https://github.com/tahowallet/extension) ![stars](https://img.shields.io/github/stars/tahowallet/extension?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/tahowallet/extension?style=flat-square) - Taho, the community owned and operated Web3 wallet.
 
+- [Rivet](https://github.com/paradigmxyz/rivet) ![stars](https://img.shields.io/github/stars/paradigmxyz/rivet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/paradigmxyz/rivet?style=flat-square) - Developer Wallet & DevTools for Anvil.
+
 - [MetaMask Extension](https://github.com/MetaMask/metamask-extension) ![stars](https://img.shields.io/github/stars/MetaMask/metamask-extension?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/MetaMask/metamask-extension?style=flat-square) - The MetaMask browser extension enables browsing Ethereum blockchain enabled websites.
 
 - [MEW Wallet](https://github.com/MyEtherWallet/MyEtherWallet) ![stars](https://img.shields.io/github/stars/MyEtherWallet/MyEtherWallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/MyEtherWallet/MyEtherWallet?style=flat-square) - MyEtherWallet (our friends call us MEW) is a free, client-side interface helping you interact with the Ethereum blockchain.
 
 - [Rabby Wallet](https://github.com/RabbyHub/Rabby) ![stars](https://img.shields.io/github/stars/RabbyHub/Rabby?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/RabbyHub/Rabby?style=flat-square) - Rabby Wallet is an open source browser plugin for the DeFi ecosystem, providing users with a better-to-use and more secure multi-chain experience.
 
-- [Safe{Wallet}](https://github.com/safe-global/safe-wallet-web) ![stars](https://img.shields.io/github/stars/safe-global/safe-wallet-web?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/safe-global/safe-wallet-web?style=flat-square) - Safe{Wallet} – smart contract wallet for Ethereum (ex-Gnosis Safe multisig). 
+- [Safe{Wallet}](https://github.com/safe-global/safe-wallet-web) ![stars](https://img.shields.io/github/stars/safe-global/safe-wallet-web?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/safe-global/safe-wallet-web?style=flat-square) - Safe{Wallet} – smart contract wallet for Ethereum (ex-Gnosis Safe multisig).
 
 - [Argent-X Wallet](https://github.com/argentlabs/argent-x) ![stars](https://img.shields.io/github/stars/argentlabs/argent-x?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/argentlabs/argent-x?style=flat-square) - ArgentX browser extension for StarkNet - made with ❤️ by Argent .
 
@@ -328,16 +330,15 @@ A simple Flutter app that demonstrates a wallet UI design.
 
 - [Backpack Wallet](https://github.com/coral-xyz/backpack) ![stars](https://img.shields.io/github/stars/coral-xyz/backpack?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/coral-xyz/backpack?style=flat-square) - 🎒 Next level crypto wallet. Backpack is a self-custody crypto wallet for Solana and Ethereum.
 
+- [Blockchain.com Wallet](https://github.com/blockchain/blockchain-wallet-v4-frontend) ![stars](https://img.shields.io/github/stars/blockchain/blockchain-wallet-v4-frontend?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/blockchain/blockchain-wallet-v4-frontend?style=flat-square) - Blockchain.com's open source, non-custodial Wallet.
 
-- [Blockchain.com Wallet](https://github.com/blockchain/blockchain-wallet-v4-frontend) ![stars](https://img.shields.io/github/stars/blockchain/blockchain-wallet-v4-frontend?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/blockchain/blockchain-wallet-v4-frontend?style=flat-square) -  Blockchain.com's open source, non-custodial Wallet.
-
-- [Crypto.com Desktop Wallet](https://github.com/crypto-com/chain-desktop-wallet) ![stars](https://img.shields.io/github/stars/crypto-com/chain-desktop-wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/crypto-com/chain-desktop-wallet?style=flat-square) -  Crypto.com DeFi Desktop Wallet.
+- [Crypto.com Desktop Wallet](https://github.com/crypto-com/chain-desktop-wallet) ![stars](https://img.shields.io/github/stars/crypto-com/chain-desktop-wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/crypto-com/chain-desktop-wallet?style=flat-square) - Crypto.com DeFi Desktop Wallet.
 
 - [Kraken Wallet](https://github.com/krakenfx/wallet) ![stars](https://img.shields.io/github/stars/krakenfx/wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/krakenfx/wallet?style=flat-square) - Kraken Wallet is a powerful self-custody wallet built for the decentralized web.
 
 - [Coinbase Wallet SDK](https://github.com/coinbase/coinbase-wallet-sdk) ![stars](https://img.shields.io/github/stars/coinbase/coinbase-wallet-sdk?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/coinbase/coinbase-wallet-sdk?style=flat-square) - Coinbase Wallet SDK.
 
-- [Clear EVM Wallet](https://github.com/andrei0x309/clear-wallet) ![stars](https://img.shields.io/github/stars/andrei0x309/clear-wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/andrei0x309/clear-wallet?style=flat-square) -  Clear EVM wallet, fully open source, small sized implementation of an ethereum wallet. Implements MetaMask API.
+- [Clear EVM Wallet](https://github.com/andrei0x309/clear-wallet) ![stars](https://img.shields.io/github/stars/andrei0x309/clear-wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/andrei0x309/clear-wallet?style=flat-square) - Clear EVM wallet, fully open source, small sized implementation of an ethereum wallet. Implements MetaMask API.
 
 - [DexPairs.xyz Wallet](https://github.com/dorianbayart/DexPairs) ![stars](https://img.shields.io/github/stars/dorianbayart/DexPairs?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/dorianbayart/DexPairs?style=flat-square) - Crypto - Multi-Chain && Multi-Protocol Wallet Tracker && NFT Viewer .
 
@@ -357,11 +358,14 @@ A simple Flutter app that demonstrates a wallet UI design.
 
 - [DePayFi](https://github.com/DePayFi/web3-wallets) ![stars](https://img.shields.io/github/stars/DePayFi/web3-wallets?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/DePayFi/web3-wallets?style=flat-square) - One-Stop-Shop JavaScript library to integrate various [web3 crypto wallets](https://depay.com/wallets) and multiple blockchains at once with a single interface.
 
-- [Burner Wallet](https://github.com/austintgriffith/burner-wallet) ![stars](https://img.shields.io/github/stars/austintgriffith/burner-wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/austintgriffith/burner-wallet?style=flat-square) -  🔥👛Burner Wallet to move crypto quickly in a web browser. Sweep to cold storage when you get home. Meta Transaction Relay. 
+- [Burner Wallet](https://github.com/austintgriffith/burner-wallet) ![stars](https://img.shields.io/github/stars/austintgriffith/burner-wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/austintgriffith/burner-wallet?style=flat-square) - 🔥👛Burner Wallet to move crypto quickly in a web browser. Sweep to cold storage when you get home. Meta Transaction Relay.
 
 - [Pertinax Wallet](https://github.com/pertinaxwallet/web-extension) ![stars](https://img.shields.io/github/stars/pertinaxwallet/web-extension?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/pertinaxwallet/web-extension?style=flat-square) - Web-extension wallet for Everscale blockchain. Fast, secure solution that will help you to interact with Everscale blockchain in the modern format. Web3-like library for Dapp, own secure keystore format, etc.
 
+- [Kryptik Wallet](https://github.com/KryptikApp/kryptikwebapp) ![stars](https://img.shields.io/github/stars/KryptikApp/kryptikwebapp?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/KryptikApp/kryptikwebapp?style=flat-square) - Kryptik provides a single interface for your most important online interactions. Swap, send, and save across 10+ blockchains with the Kryptik web wallet.
+
 ## Android
+
 - [Unstoppable Wallet](https://github.com/horizontalsystems/unstoppable-wallet-android) ![stars](https://img.shields.io/github/stars/horizontalsystems/unstoppable-wallet-android?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/horizontalsystems/unstoppable-wallet-android?style=flat-square) - A powerful non-custodial multi-wallet for Bitcoin, Ethereum, Binance Smart Chain, Avalanche, Solana and other blockchains.
 
 - [AlphaWallet](https://github.com/AlphaWallet/alpha-wallet-android) ![stars](https://img.shields.io/github/stars/AlphaWallet/alpha-wallet-android?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/AlphaWallet/alpha-wallet-android?style=flat-square) - An advanced Ethereum/EVM mobile wallet.
@@ -372,14 +376,12 @@ A simple Flutter app that demonstrates a wallet UI design.
 
 - [Zerion Android](https://github.com/zeriontech/wallet-core-android) ![stars](https://img.shields.io/github/stars/zeriontech/wallet-core-android?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/zeriontech/wallet-core-android?style=flat-square)
 
-
 - [Incognito Wallet](https://github.com/incognitochain/incognito-wallet) ![stars](https://img.shields.io/github/stars/incognitochain/incognito-wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/incognitochain/incognito-wallet?style=flat-square) - Incognito wallet client for Mobile App to stake, monitor a node, create private transactions, etc .
 
 - [RockWallet](https://github.com/rockwalletcode/oss-wallet-android) ![stars](https://img.shields.io/github/stars/rockwalletcode/oss-wallet-android?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/rockwalletcode/oss-wallet-android?style=flat-square)
 
-
-
 ## iOS
+
 - [Unstoppable Wallet](https://github.com/horizontalsystems/unstoppable-wallet-ios) ![stars](https://img.shields.io/github/stars/horizontalsystems/unstoppable-wallet-ios?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/horizontalsystems/unstoppable-wallet-ios?style=flat-square) - A powerful non-custodial multi-wallet for Bitcoin, Ethereum, Binance Smart Chain, Avalanche, Solana and other blockchains.
 
 - [AlphaWallet](https://github.com/AlphaWallet/alpha-wallet-ios) ![stars](https://img.shields.io/github/stars/AlphaWallet/alpha-wallet-ios?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/AlphaWallet/alpha-wallet-ios?style=flat-square) - An advanced Ethereum/EVM mobile wallet.
@@ -391,6 +393,7 @@ A simple Flutter app that demonstrates a wallet UI design.
 - [Zerion iOS](https://github.com/zeriontech/wallet-core-ios) ![stars](https://img.shields.io/github/stars/zeriontech/wallet-core-ios?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/zeriontech/wallet-core-ios?style=flat-square)
 
 ## Contracts
+
 - [One SmartOTP Wallet](https://github.com/polymorpher/one-wallet) ![stars](https://img.shields.io/github/stars/polymorpher/one-wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/polymorpher/one-wallet?style=flat-square) - 1wallet - unconventional keyless, non-custodial wallet secured by Google Authenticator. EVM-compatible, smart contract operated, with composable security
 
 - [Safe Contracts](https://github.com/safe-global/safe-contracts) ![stars](https://img.shields.io/github/stars/safe-global/safe-contracts?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/safe-global/safe-contracts?style=flat-square) - Safe allows secure management of blockchain assets.
@@ -415,7 +418,6 @@ A simple Flutter app that demonstrates a wallet UI design.
 
 - [BitBox](https://github.com/digitalbitbox/bitbox02-firmware) ![stars](https://img.shields.io/github/stars/digitalbitbox/bitbox02-firmware?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/digitalbitbox/bitbox02-firmware) - [BitBox App](https://github.com/digitalbitbox/bitbox-wallet-app)
 
-
 ## Meta Transactions
 
 - [ERC20 Multi Meta Transaction](https://github.com/KennieHarold/multi-metatx) ![stars](https://img.shields.io/github/stars/KennieHarold/multi-metatx?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/KennieHarold/multi-metatx?style=flat-square) - Multi Meta Transaction on Ethereum with EIP-712 and ERC-2612 Standards.
@@ -438,21 +440,21 @@ A simple Flutter app that demonstrates a wallet UI design.
 
 ## Bitcoin Only
 
-- [BlueWallet](https://github.com/BlueWallet/BlueWallet) ![stars](https://img.shields.io/github/stars/BlueWallet/BlueWallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/BlueWallet/BlueWallet?style=flat-square) -  Bitcoin wallet for iOS & Android. Built with React Native.
+- [BlueWallet](https://github.com/BlueWallet/BlueWallet) ![stars](https://img.shields.io/github/stars/BlueWallet/BlueWallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/BlueWallet/BlueWallet?style=flat-square) - Bitcoin wallet for iOS & Android. Built with React Native.
 
 - [Schildbach Bitcoin Wallet](https://github.com/bitcoin-wallet/bitcoin-wallet) ![stars](https://img.shields.io/github/stars/bitcoin-wallet/bitcoin-wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/bitcoin-wallet/bitcoin-wallet?style=flat-square) - Android Bitcoin Wallet.
 
-- [Electrum Bitcoin Wallet](https://github.com/spesmilo/electrum) ![stars](https://img.shields.io/github/stars/spesmilo/electrum?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/spesmilo/electrum?style=flat-square) - Electrum Python  Lightweight Bitcoin Wallet.
+- [Electrum Bitcoin Wallet](https://github.com/spesmilo/electrum) ![stars](https://img.shields.io/github/stars/spesmilo/electrum?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/spesmilo/electrum?style=flat-square) - Electrum Python Lightweight Bitcoin Wallet.
 
 - [Simple Bitcoin Wallet](https://github.com/akumaigorodski/wallet) ![stars](https://img.shields.io/github/stars/akumaigorodski/wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/akumaigorodski/wallet?style=flat-square) - Simple Bitcoin Wallet (aka SBW) is a non-custodial Bitcoin wallet for Android.
 
-- [ABCore Bitcoin Wallet](https://github.com/greenaddress/abcore) ![stars](https://img.shields.io/github/stars/greenaddress/abcore?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/greenaddress/abcore?style=flat-square) -  ABCore - Android Bitcoin Core (GreenAddress).
+- [ABCore Bitcoin Wallet](https://github.com/greenaddress/abcore) ![stars](https://img.shields.io/github/stars/greenaddress/abcore?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/greenaddress/abcore?style=flat-square) - ABCore - Android Bitcoin Core (GreenAddress).
 
-- [BitBanana Wallet](https://github.com/michaelWuensch/BitBanana) ![stars](https://img.shields.io/github/stars/michaelWuensch/BitBanana?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/michaelWuensch/BitBanana?style=flat-square) -  Lightning Node Management for Android.
+- [BitBanana Wallet](https://github.com/michaelWuensch/BitBanana) ![stars](https://img.shields.io/github/stars/michaelWuensch/BitBanana?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/michaelWuensch/BitBanana?style=flat-square) - Lightning Node Management for Android.
 
 - [BitPay Wallet](https://github.com/bitpay/wallet) ![stars](https://img.shields.io/github/stars/bitpay/wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/bitpay/wallet?style=flat-square) - Bitpay Wallet (formerly Copay) is a secure Bitcoin and other crypto currencies wallet platform for both desktop and mobile devices.
 
-- [Blockstream Green Wallet](https://github.com/Blockstream/green_android) ![stars](https://img.shields.io/github/stars/Blockstream/green_android?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/Blockstream/green_android?style=flat-square) -   Blockstream Green Wallet for Android
+- [Blockstream Green Wallet](https://github.com/Blockstream/green_android) ![stars](https://img.shields.io/github/stars/Blockstream/green_android?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/Blockstream/green_android?style=flat-square) - Blockstream Green Wallet for Android
 
 - [Muun Wallet](https://github.com/muun/apollo) ![stars](https://img.shields.io/github/stars/muun/apollo?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/muun/apollo?style=flat-square) - Muun Android wallet
 
@@ -460,9 +462,7 @@ A simple Flutter app that demonstrates a wallet UI design.
 
 - [Mojito Wallet](https://github.com/mintlayer/mojito_mobile_wallet) ![stars](https://img.shields.io/github/stars/mintlayer/mojito_mobile_wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/mintlayer/mojito_mobile_wallet?style=flat-square) - Mojito - A Bitcoin & Mintlayer Wallet.
 
-
 ## Other Tools
-
 
 ## Links
 
@@ -486,14 +486,14 @@ A simple Flutter app that demonstrates a wallet UI design.
 
 - [Binance Trading Bot](https://github.com/chrisleekr/binance-trading-bot) ![stars](https://img.shields.io/github/stars/chrisleekr/binance-trading-bot?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/chrisleekr/binance-trading-bot?style=flat-square) - Automated Binance trading bot - Trade multiple cryptocurrencies. Buy low/sell high with Grid Trading. Integrated with TradingView technical analysis.
 
-- [Haehnchen Crypto Trading Bot](https://github.com/Haehnchen/crypto-trading-bot) ![stars](https://img.shields.io/github/stars/Haehnchen/crypto-trading-bot?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/Haehnchen/crypto-trading-bot?style=flat-square) - Cryptocurrency trading bot in javascript for Bitfinex, Bitmex, Binance, Bybit ... (public edition) 
+- [Haehnchen Crypto Trading Bot](https://github.com/Haehnchen/crypto-trading-bot) ![stars](https://img.shields.io/github/stars/Haehnchen/crypto-trading-bot?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/Haehnchen/crypto-trading-bot?style=flat-square) - Cryptocurrency trading bot in javascript for Bitfinex, Bitmex, Binance, Bybit ... (public edition)
 
 - [coinstate](https://github.com/subrotokumar/coinstate) ![stars](https://img.shields.io/github/stars/subrotokumar/coinstate?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/subrotokumar/coinstate?style=flat-square) - Cryptocurrency Tracker application for mobile.
 
 - [Dark Crypto App](https://github.com/CodePhilanthropist/dark-crypto-app) ![stars](https://img.shields.io/github/stars/CodePhilanthropist/dark-crypto-app?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/CodePhilanthropist/dark-crypto-app?style=flat-square) - Dark Crypto App is a cutting-edge mobile application designed to revolutionize the way you manage your cryptocurrency portfolio. With its sleek and intuitive interface, powerful features, and comprehensive data analysis tools, Dark Crypto App is the ultimate companion for crypto enthusiasts and investors.
 
 - [Cryptocurrency Watcher in Blazor](https://github.com/Marfusios/crypto-watcher-blazor) ✨![stars](https://img.shields.io/github/stars/Marfusios/crypto-watcher-blazor?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/Marfusios/crypto-watcher-blazor?style=flat-square) - About
-Cryptocurrency real-time prices and order book in the webassembly application
+  Cryptocurrency real-time prihttps://github.com/paradigmxyz/rivetces and order book in the webassembly application
 
 - [CryptoMarketApp](https://github.com/HypeTeqSoftware/CryptoMarketApp) ✨![stars](https://img.shields.io/github/stars/HypeTeqSoftware/CryptoMarketApp?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/HypeTeqSoftware/CryptoMarketApp?style=flat-square) - utilizes APIs to display real-time data and detailed information about cryptocurrency coins.
 
@@ -516,5 +516,3 @@ Cryptocurrency real-time prices and order book in the webassembly application
 - [DAI stats](https://github.com/nanexcool/daistats) ![stars](https://img.shields.io/github/stars/nanexcool/daistats?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/nanexcool/daistats?style=flat-square) - 🎉 [Dai Stats](https://daistats.com/)
 
 - [https://summer.fi/borrow](https://summer.fi/borrow)
-
-
