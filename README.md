@@ -392,6 +392,8 @@
 
 - [Zerion iOS](https://github.com/zeriontech/wallet-core-ios) ![stars](https://img.shields.io/github/stars/zeriontech/wallet-core-ios?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/zeriontech/wallet-core-ios?style=flat-square)
 
+- [Oath Wallet](https://github.com/devdasx/oath-wallet) ![stars](https://img.shields.io/github/stars/devdasx/oath-wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/devdasx/oath-wallet?style=flat-square) - Native Swift multichain wallet for iPhone and iPad.
+
 ## Contracts
 
 - [One SmartOTP Wallet](https://github.com/polymorpher/one-wallet) ![stars](https://img.shields.io/github/stars/polymorpher/one-wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/polymorpher/one-wallet?style=flat-square) - 1wallet - unconventional keyless, non-custodial wallet secured by Google Authenticator. EVM-compatible, smart contract operated, with composable security
