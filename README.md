@@ -394,6 +394,8 @@
 
 - [Oath Wallet](https://github.com/devdasx/oath-wallet) ![stars](https://img.shields.io/github/stars/devdasx/oath-wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/devdasx/oath-wallet?style=flat-square) - Native Swift multichain wallet for iPhone and iPad.
 
+- [BitTool Signer for iOS](https://github.com/bitbill/bittool-signer-ios) ![stars](https://img.shields.io/github/stars/bitbill/bittool-signer-ios?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/bitbill/bittool-signer-ios?style=flat-square) - MIT-licensed offline iPhone signing app using QR requests and responses; requires a separate online wallet.
+
 ## Contracts
 
 - [One SmartOTP Wallet](https://github.com/polymorpher/one-wallet) ![stars](https://img.shields.io/github/stars/polymorpher/one-wallet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/polymorpher/one-wallet?style=flat-square) - 1wallet - unconventional keyless, non-custodial wallet secured by Google Authenticator. EVM-compatible, smart contract operated, with composable security
